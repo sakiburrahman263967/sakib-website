@@ -1,5 +1,10 @@
 *{
   margin: 0px;
-  padding: 0px;
-  
+  padding: 0px; 
+}
+.text{
+  color: aqua;
+
+  cursor: url("https://cdn.pixabay.com/photo/2020/02/09/09/38/smiley-4832492_1280.png"),auto;
+
 }
